@@ -1,7 +1,5 @@
 # Expense-Tracker-System-ASP.NET-CORE
-
-A full-featured **.NET Core Expense Tracker** application built with ASP.NET Core.
-
+Expense Tracker is a simple ASP.NET Core web app to manage personal expenses. Users can add, edit, delete, filter, set budgets, and export data to CSV.
 ---
 
 ## Features
