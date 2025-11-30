@@ -1,5 +1,7 @@
 # Expense-Tracker-System-ASP.NET-CORE
+
 Expense Tracker is a simple ASP.NET Core web app to manage personal expenses. Users can add, edit, delete, filter, set budgets, and export data to CSV.
+
 ---
 
 ## Features
@@ -17,16 +19,18 @@ Expense Tracker is a simple ASP.NET Core web app to manage personal expenses. Us
 
 ## Screenshots
 
+### Dashboard
 
-# Dashboard
 ![Dashboard](./Screenshot/a.png)
 
-# Add Expense
+### Add Expense
+
 ![Add Expense](./Screenshot/b.png)
 
-# Expense List
+### Expense List
+
 ![Expense List](./Screenshot/c.png)
-```
+
 ---
 
 ## Technology Stack
@@ -81,6 +85,11 @@ ExpenseTracker/
 
 **Rubayit Alam** – Full-Stack Developer
 
-GitHub:  [https://github.com/rubayitalam](https://github.com/rubayitalam)
+GitHub: [https://github.com/rubayitalam](https://github.com/rubayitalam)
+Email: [rubayit100@gmail.com](mailto:rubayit100@gmail.com)
 
-Email: rubayit100@gmail.com
+---
+
+## Project Description
+
+**Expense Tracker** is a simple ASP.NET Core web app to manage personal expenses. Users can add, edit, delete, filter, set budgets, and export data to CSV.
